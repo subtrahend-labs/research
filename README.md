@@ -1,2 +1,3 @@
-# research
-public repo of research
+## research
+
+Public repo hosting research produced by Subtrahend Labs
